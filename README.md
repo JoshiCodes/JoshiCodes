@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoshiCodes
+- 👀 I’m interested in coding and writing.
+- 💞️ I accept custom programming orders!
+- 📫 You can reach me via. Discord (JoshiZockt_#7727) or Mail (joshizockt@netrogames.de)
