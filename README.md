@@ -4,4 +4,4 @@
 - 📫 You can reach me via. Discord (JoshiZockt_#7727) or Mail (joshizockt@netrogames.de)
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshiCodes&theme=gruvbox&hide_border=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshiCodes&show_icons=true&theme=gruvbox&hide_border=true" /> 
