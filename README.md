@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JoshiCodes
+- 👋 Hi, I’m @JoshiCodes, also known as JoshiZockt_ or just Joshua
 - 👀 I’m interested in coding and writing.
-- 💞️ I accept custom programming orders!
 - 📫 You can reach me via. Discord (JoshiZockt_#7727) or Mail (joshua@joshi.codes)
 
 
