@@ -2,5 +2,6 @@
 - 👀 I’m interested in coding and writing.
 - 📫 You can reach me via. Discord (JoshiZockt_#7727) or Mail (joshua@joshi.codes)
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshiCodes&show_icons=true&theme=gruvbox&hide_border=true" /> 
+![JoshiCodes's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=joshicodes&theme=dracula)
+<br>
+![JoshiCodes's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshicodes&show_icons=true&count_private=true&theme=dracula)
