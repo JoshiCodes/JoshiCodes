@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JoshiCodes, also known as JoshiZockt_ or just Joshua
-- 👀 I’m interested in coding and writing.
-- 📫 You can reach me via. Discord (JoshiZockt_#7727) or Mail (joshua@joshi.codes)
+- 📫 You can reach me via. Discord (<b>JoshiZockt_#7727</b>) or Mail (joshua@joshi.codes)
+
+<br>
 
 ![JoshiCodes's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshicodes&show_icons=true&count_private=true&theme=dracula)
 
