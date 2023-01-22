@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoshiCodes, also known as JoshiZockt_ or just Joshua
+- 👋 Hey there, i am Joshua!
 - 📫 You can reach me via. Discord (<b>JoshiZockt_#7727</b>) or Mail (joshua@joshi.codes)
 
 <br>
