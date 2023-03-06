@@ -1,5 +1,5 @@
 - 👋 Hey there, i am Joshua!
-- 📫 You can reach me via. Discord (<b>JoshiZockt_#7727</b>) or Mail (joshua@joshi.codes)
+- 📫 You can reach me via. Discord (<b>JoshiZockt_#7727</b>) or Mail (joshua@joshicodes.de)
 
 <br>
 
