@@ -1,5 +1,17 @@
-- 👋 Hey there, i am Joshua!
-- 📫 You can reach me via. Discord (<b>JoshiZockt_#7727</b>) or Mail (joshua@joshicodes.de)
+## 👋 Hey there, i am Joshua!<br>
+
+### How to reach me:
+
+- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;JoshiZockt_#7727<br>
+- 📫 joshua@joshicodes.de<br>
+
+#### Currently working on:
+- [JTA](https://github.com/JoshiCodes/JTA), a Java Wrapper for the Telegram API
+- [RJA](https://github.com/JoshiCodes/JRA), a _very_ simple Reddit API
+- [RaphtaliaBot](https://raphtaliabot.xyz) (closed source), my own verified Discord Bot
+- And some other smaller projects, as you can see [here](https://github.com/JoshiCodes?tab=repositories)
+
+_Mostly focusing on Java or Web Applications_<br>
 
 <br>
 
