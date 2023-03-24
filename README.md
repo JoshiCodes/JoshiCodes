@@ -2,7 +2,7 @@
 
 ### How to reach me:
 
-- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;JoshiZockt_#7727<br>
+- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;Joroshi#7727<br>
 - 📫 joshua@joshicodes.de<br>
 
 #### Currently working on:
