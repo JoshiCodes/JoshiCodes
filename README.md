@@ -7,7 +7,7 @@
 
 #### Currently working on:
 - [JTA](https://github.com/JoshiCodes/JTA), a Java Wrapper for the Telegram API
-- [RJA](https://github.com/JoshiCodes/JRA), a _very_ simple Reddit API
+- [RJA](https://github.com/JoshiCodes/RJA), a Java Wrapper for the Revolt Chat API, designed for Bots
 - [RaphtaliaBot](https://raphtaliabot.xyz) (closed source), my own verified Discord Bot
 - And some other smaller projects, as you can see [here](https://github.com/JoshiCodes?tab=repositories)
 
