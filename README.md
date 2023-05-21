@@ -17,5 +17,3 @@ _Mostly focusing on Java or Web Applications_<br>
 
 ![JoshiCodes's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshicodes&show_icons=true&count_private=true&theme=dracula)
 
-
-![JoshiCodes's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=joshizockt_&theme=dracula)
