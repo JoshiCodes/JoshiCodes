@@ -1,4 +1,4 @@
-## 👋 Hey there, i am Joshua!<br>
+## 👋 Hey there, I am Joshua!<br>
 
 ### How to reach me:
 
