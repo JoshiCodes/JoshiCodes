@@ -6,9 +6,9 @@
 - 📫 joshua@joshicodes.de<br>
 
 #### Currently working on:
-- [JTA](https://github.com/JoshiCodes/JTA), a Java Wrapper for the Telegram API
-- [RJA](https://github.com/JoshiCodes/RJA), a Java Wrapper for the Revolt Chat API, designed for Bots
-- [RaphtaliaBot](https://raphtaliabot.xyz) (closed source), my own verified Discord Bot
+- [DiscordUtils](https://github.com/JoshiCodes/DiscordUtils), a small colletion of Discord Utility classes
+- [WebAPI](https://github.com/JoshiCodes/WebAPI), a small and simple WebAPI. Not recommended for production..
+- [NewLabyAPI](https://github.com/JoshiCodes/NewLabyAPI), a implementation of the LabyMod API for new Versions 
 - And some other smaller projects, as you can see [here](https://github.com/JoshiCodes?tab=repositories)
 
 _Mostly focusing on Java or Web Applications_<br>
