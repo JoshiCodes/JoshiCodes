@@ -1,5 +1,7 @@
 ## 👋 Hey there, I am Joshua!<br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&vCenter=true&width=435&lines=Coffein.;Coffein..;Repeat.)](https://git.io/typing-svg)
+
 ### How to reach me:
 
 - <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;@Joroshi<br>
