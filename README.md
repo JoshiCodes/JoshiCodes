@@ -8,7 +8,7 @@
 - 📫 joshua@joshicodes.de<br>
 
 #### Currently working on:
-- [DiscordUtils](https://github.com/JoshiCodes/DiscordUtils), a small colletion of Discord Utility classes
+- [AGHPB4J](https://github.com/JoshiCodes/AGHPB4J), a simple Java Wrapper for the AGHPB API
 - [WebAPI](https://github.com/JoshiCodes/WebAPI), a small and simple WebAPI. Not recommended for production..
 - [NewLabyAPI](https://github.com/JoshiCodes/NewLabyAPI), a implementation of the LabyMod API for new Versions 
 - And some other smaller projects, as you can see [here](https://github.com/JoshiCodes?tab=repositories)
