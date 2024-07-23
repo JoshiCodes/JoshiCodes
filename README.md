@@ -4,7 +4,7 @@
 
 ### How to reach me:
 
-- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;@Joroshi<br>
+- <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 16px; vertical-align: middle;"/> &nbsp;[@Joroshi](<https://discord.com/users/299251045513691137>)<br>
 - 📫 joshua@joshicodes.de<br>
 
 #### Currently working on:
