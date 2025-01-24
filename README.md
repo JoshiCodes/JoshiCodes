@@ -11,7 +11,7 @@
 - [NewLabyAPI](https://github.com/JoshiCodes/NewLabyAPI), a implementation of the LabyMod API for new Versions 
 - And some other smaller projects, as you can see [here](https://github.com/JoshiCodes?tab=repositories)
 
-_Mostly focusing on Java or Web Applications_<br>
+[![wakatime](https://wakatime.com/badge/user/5151dda7-31a8-48e7-a07d-f48df6b63636.svg)](https://wakatime.com/@5151dda7-31a8-48e7-a07d-f48df6b63636)
 
 <br>
 
